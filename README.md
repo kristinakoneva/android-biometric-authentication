@@ -1,2 +1,3 @@
 # Android Biometric Authentication
-Project for the Biometric Systems Course
+
+_Kristina Koneva (student index number: 249013)_
